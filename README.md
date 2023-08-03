@@ -1,2 +1,2 @@
-# big2Viet
-Vietnamese Poker Big 2 Mobile Game
+# hoolaCardGame
+Hoola Card Mobile Game
