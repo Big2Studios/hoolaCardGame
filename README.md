@@ -1,2 +1,2 @@
 # hoolaCardGame
-Hoola Card Mobile Game
+Hoola Card Mobile Game with Gambling
